@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace radioyaravi\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
